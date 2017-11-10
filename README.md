@@ -1,5 +1,4 @@
-# Hackathon Mini Project
-## Journal Creator
+# Hackathon Mini Project Journal Creator
 
 ### Explination
 Below is a picture of what the project could look like. There will be *no points awarded for the style* of the project only functionality. You have an hour and a half to create as many features you can based off the features listed below. Who ever has the most points after an hour and a half gets the main prize. Second place will also get a prize. In the event of a tie, the winner of the tie breaker will go to who has the least number of lines in your code.
