@@ -15,4 +15,4 @@ Below is a picture of what the project could look like. There will be *no points
 10: User can filter list to show oldest entries first or newest entries first
 </pre>
 
-<img src="https://github.com/Rasbandit/Journal-Maker-outlines/blob/master/journal.jpg">
+<img src="https://github.com/Rasbandit/Journal-Maker-outline/blob/master/journal.jpg">
